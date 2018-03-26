@@ -1,1 +1,7 @@
 
+[lengthened coda, fixed harmonisation and transitions from development to coda]
+### 25/03/2018[21:44 - 22:39]:
+* 3252018 - improvements to length of coda
+* improve transition from pizzicato to legato cellos of coda
+* fix harmonisation
+
